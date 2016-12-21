@@ -1,4 +1,4 @@
-`jira` let's you quickly open the JIRA ticket that matches your branch name.
+`jira` lets you quickly open the JIRA ticket that matches your branch name.
 
 
 ## Installation
@@ -6,7 +6,7 @@
 `jira` works with Python 3.5.
 
 ```
-> pip install git+https://github.com/sesh/jira
+> pip install -U git+https://github.com/sesh/jira
 ```
 
 
